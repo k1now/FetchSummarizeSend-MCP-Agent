@@ -53,6 +53,9 @@ Tools exposed as modular Express routers under:
 
 Registered in serverOps.js, exposing tool routes under root
 
+### Example of the Flash Briefing
+https://share.icloud.com/photos/01bJe2fPLcZx2kum5kCglzDxA
+
 ### 🧪 Agent Entry Point
 - server.js initializes the server and launches the conversation loop
 - addUserMessage() sets the agent's objective
