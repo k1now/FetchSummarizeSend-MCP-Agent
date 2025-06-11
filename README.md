@@ -53,8 +53,9 @@ Tools exposed as modular Express routers under:
 
 Registered in serverOps.js, exposing tool routes under root
 
-### Example of the Flash Briefing
-![image](https://github.com/user-attachments/assets/10cf61d5-4601-43fa-84c1-087da1eebd7c)
+<h3>Example of the Flash Briefing</h3>
+<img src="https://github.com/user-attachments/assets/10cf61d5-4601-43fa-84c1-087da1eebd7c" width="400"/>
+
 
 
 ### 🧪 Agent Entry Point
